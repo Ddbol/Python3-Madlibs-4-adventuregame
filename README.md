@@ -1,4 +1,6 @@
 # Python3-Madlibs-4-adventuregame
+Group 2 - David Osei Antwi, Deirdre Boland, Dawood Butt, Daniel Popowych - Jan 2025
+
 
 Python 3 - Mad Libs Generator:
 
