@@ -1,9 +1,9 @@
 # Python3-Madlibs-4-adventuregame
 
 Python 3 - Mad Libs Generator:
-Inspired by Summer Son’s Mad Libs project with Javascript. The program prompts the
-user for a series of inputs e.g. a noun, an adjective, etc. The program contains a dictionary of different stories. 
-After the user input one of these stories is randomly chosen and filled with the relevant user input to print a fun Mad Lib story. 
+Inspired by Summer Son’s Mad Libs project with Javascript. The program contains a dictionary of different stories and prompts the
+user for a series of inputs e.g. a noun, an adjective, etc.  
+Upon user input, one of these stories is randomly chosen and filled with the relevant user input to print a fun Mad Lib story. 
 
 Python 4 - Text Based Adventure Game: 
 This game allows a user to move through several rooms in a preset layout by inputting text directions N/E/S/W or quit with Q. 
